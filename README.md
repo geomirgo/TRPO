@@ -1,5 +1,6 @@
 # TRPO
 ETU 2021 spring
+
 Автоматизация сбора данных для обучения нейронной сети с использован ием видео /
 Video-based automated collection of data for neural network training
 
